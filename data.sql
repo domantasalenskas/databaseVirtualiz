@@ -1,9 +1,9 @@
-CREATE TABLE USERS(
+CREATE TABLE users(
 
-  FNAME VARCHAR (30),
+  fname VARCHAR (30),
 
-  LNAME VARCHAR (30),
+  lname VARCHAR (30),
 
-  PASSWD VARCHAR (30)
+  passwd VARCHAR (30)
 
 );
